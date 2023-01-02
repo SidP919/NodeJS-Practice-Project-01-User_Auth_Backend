@@ -1,0 +1,9 @@
+# environment files
+.env
+
+# sensitive files
+package.json
+package-lock.json
+
+# packages' files
+/node_modules
