@@ -2,7 +2,6 @@
 .env
 
 # sensitive files
-package.json
 package-lock.json
 
 # packages' files
